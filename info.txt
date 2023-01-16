@@ -1,0 +1,11 @@
+https://www.c-sharpcorner.com/article/how-to-fetch-api-call-using-json-server-in-reactjs/
+
+kipróbálni
+https://medium.com/weekly-webtips/use-react-with-json-server-and-create-simple-crud-app-b2bf58cd4558
+
+https://my-json-server.typicode.com/KovacsZoltan65/json_server
+
+npm i json-server
+
+// INDÍTÁS
+npx json-server -p 3500 -w data/db.json
